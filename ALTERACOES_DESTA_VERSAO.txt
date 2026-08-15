@@ -1,0 +1,27 @@
+PORTAL REDE ACESSÍVEL — ATUALIZAÇÃO DE 13 DE AGOSTO DE 2026
+============================================================
+
+Esta versão mantém a Compra Acessível — Continente e os 1.044 guias.
+
+Alterações principais:
+
+- Novo logótipo no início de todas as páginas.
+- Descrição acessível do logótipo para JAWS e outros leitores de ecrã.
+- Slogan: A deficiência não limita o acesso. As barreiras, sim.
+- Ficheiro robots.txt criado.
+- Ficheiro sitemap.xml criado.
+- Endereço canónico em todas as páginas.
+- Títulos, descrições para partilha e dados estruturados para o Google.
+- Priorização de 151 guias realmente diferentes no mapa do site.
+- Os restantes guias continuam disponíveis na pesquisa e nas categorias.
+- Instruções simples para registar o portal no Google Search Console.
+- Publicador automático corrigido e preparado para abrir o Search Console.
+- Ficheiro oficial de validação do Google Search Console incluído na raiz.
+
+Para publicar:
+
+1. Extraia todo o ZIP.
+2. Entre na pasta PORTAL_REDE_ACESSIVEL_GITHUB.
+3. Execute PUBLICAR_NO_GITHUB_SEM_PYTHON.bat.
+4. Não feche a janela preta até ouvir PUBLICAÇÃO CONCLUÍDA.
+5. Siga o ficheiro COLOCAR_NO_GOOGLE.txt.

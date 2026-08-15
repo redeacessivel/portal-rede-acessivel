@@ -1,0 +1,26 @@
+PORTAL REDE ACESSIVEL - ATUALIZACAO DE 12 DE AGOSTO DE 2026
+
+Esta versao tem 1044 guias distribuidos por 20 categorias.
+Inclui ainda leitura de historias, catalogos de livros gratuitos em portugues,
+compra acessivel e uma area preparada para apoio ao portal.
+
+1. Extraia todo o ZIP para uma pasta normal.
+2. Abra a pasta PORTAL_REDE_ACESSIVEL_GITHUB.
+3. Execute PUBLICAR_NO_GITHUB_SEM_PYTHON.bat.
+4. Se o navegador pedir autorizacao, confirme a conta redeacessivel.
+5. Nao carregue em Control+C na janela preta, porque isso cancela o processo.
+6. No fim, a janela dira PUBLICACAO CONCLUIDA e ficara aberta.
+
+Nao precisa de Python.
+Nao execute o BAT sem extrair primeiro o ZIP.
+
+Repositorio:
+https://github.com/redeacessivel/portal-rede-acessivel
+
+Endereco publico:
+https://redeacessivel.github.io/portal-rede-acessivel/
+
+Na primeira publicacao, o endereco pode demorar alguns minutos a funcionar.
+
+Esta versao preserva pesquisa, navegacao por teclado, leitura em voz alta,
+alto contraste e aumento do texto.

@@ -1,0 +1,35 @@
+PORTAL REDE ACESSÍVEL — COLOCAR NO GOOGLE
+==========================================
+
+O portal já inclui os ficheiros técnicos necessários:
+
+robots.txt
+sitemap.xml
+títulos e descrições próprios
+endereços canónicos
+dados estruturados
+
+Depois de publicar o portal:
+
+1. Abra:
+https://search.google.com/search-console/welcome
+
+2. Escolha a opção de prefixo do URL.
+
+3. Escreva o endereço completo:
+https://redeacessivel.github.io/portal-rede-acessivel/
+
+4. Conclua a verificação indicada pelo Google.
+
+5. Na opção Sitemaps, envie:
+https://redeacessivel.github.io/portal-rede-acessivel/sitemap.xml
+
+6. Na inspeção de URL, peça a indexação da página inicial:
+https://redeacessivel.github.io/portal-rede-acessivel/
+
+O Google não garante uma data para mostrar o portal. O pedido de indexação
+apenas informa o Google de que o site existe e está pronto para ser analisado.
+
+Foram mantidos os 1.044 guias no portal. O mapa do site dá prioridade às
+páginas principais e aos guias com conteúdo realmente diferente. Isto evita
+que centenas de páginas muito parecidas prejudiquem a indexação do portal.

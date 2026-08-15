@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /portal-rede-acessivel/
+
+Sitemap: https://redeacessivel.github.io/portal-rede-acessivel/sitemap.xml
